@@ -125,7 +125,7 @@ const Navbar = () => {
           Welcome to, ImageHaven
         </Typography>
         <Typography variant="h4" color="#008080" mt={2}>
-          Made By :- Brajesh Singh
+          Made By :- Brajesh SingH
         </Typography>
       </Box>
       <Box
